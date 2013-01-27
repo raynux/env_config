@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/raynux/Documents/Development/alloy_sample/alloy/test/apps/ui/tableview'
+let g:netrw_dirhist_2='/Users/raynux/Documents/Development/alloy_sample/alloy/test/apps/ui/tableview/views'
+let g:netrw_dirhist_3='/Users/raynux/Documents/Development/airnage-client/Resources/alloy'
+let g:netrw_dirhist_4='/Users/raynux/Documents/Development/airnage-client/coffee/lib'
+let g:netrw_dirhist_5='/Users/raynux/Documents/Development/airnage-client/coffee/controllers'
+let g:netrw_dirhist_6='/Users/raynux/Documents/Development/airnage-client/coffee/ui'
+let g:netrw_dirhist_7='/Users/raynux/Documents/Development/airnage-client/coffee/app'
+let g:netrw_dirhist_8='/Users/raynux/Documents/Development/airnage-client/coffee/app/view'
