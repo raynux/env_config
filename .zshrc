@@ -57,3 +57,4 @@ alias vim='env LANG=ja_JP.UTF-8 /Applications/MacVim.app/Contents/MacOS/Vim "$@"
 
 if [[ -s $HOME/.rvm/scripts/rvm ]] ; then source $HOME/.rvm/scripts/rvm ; fi
 
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
