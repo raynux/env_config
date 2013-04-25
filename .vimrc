@@ -12,6 +12,9 @@ set autoindent
 set directory=/tmp
 set laststatus=1
 
+au BufNewFile,BufRead *.ejs set filetype=js
+au BufNewFile,BufRead *.ejs set filetype=html
+
 
 " neocomplcache settings
 " http://vim-users.jp/2010/10/hack177/
